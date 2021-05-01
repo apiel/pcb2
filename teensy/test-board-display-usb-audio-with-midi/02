@@ -1046,6 +1046,14 @@ Layer(1 "top" "copper")
 	Line[1000.00mil 3800.00mil 1000.00mil 3650.00mil 80.00mil 20.00mil "clearline"]
 	Line[1000.00mil 3650.00mil 950.00mil 3600.00mil 80.00mil 20.00mil "clearline"]
 	Line[950.00mil 3600.00mil 1000.00mil 3600.00mil 80.00mil 20.00mil "clearline"]
+	Line[1050.00mil 4250.00mil 1050.00mil 4300.00mil 80.00mil 20.00mil "clearline"]
+	Line[1050.00mil 4300.00mil 1100.00mil 4350.00mil 80.00mil 20.00mil "clearline"]
+	Line[1100.00mil 4350.00mil 1050.00mil 4400.00mil 80.00mil 20.00mil "clearline"]
+	Line[1250.00mil 4300.00mil 1200.00mil 4350.00mil 80.00mil 20.00mil "clearline"]
+	Line[1200.00mil 4350.00mil 1200.00mil 4400.00mil 80.00mil 20.00mil "clearline"]
+	Line[1200.00mil 4400.00mil 1175.00mil 4425.00mil 80.00mil 20.00mil "clearline"]
+	Line[850.00mil 3850.00mil 900.00mil 3900.00mil 80.00mil 20.00mil "clearline"]
+	Line[900.00mil 3900.00mil 900.00mil 4100.00mil 80.00mil 20.00mil "clearline"]
 )
 Layer(2 "ground" "copper")
 (
